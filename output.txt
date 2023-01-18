@@ -1,0 +1,4 @@
+TP_1_resources/TP1_ex8/a123.txt
+TP_1_resources/TP1_ex8/c789.txt
+TP_1_resources/TP1_ex8/g512.txt
+TP_1_resources/TP1_ex8/h152.txt
